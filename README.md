@@ -1,3 +1,3 @@
 # dev-actions
 ## Status
-Learning GitHub Actions.
+Learning GitHub Actions. on job.
